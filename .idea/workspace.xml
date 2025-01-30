@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9c7504b-cc9d-47a0-8f40-74d46de1ee66" name="Changes" comment="Updated assets\shaders\default.glsl to modify the graphic with noise">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/shaders/default.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/assets/shaders/default.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aurora/LevelEditorScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aurora/LevelEditorScene.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sam-Orion&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sam-Orion/2D-Game-Engine.git&quot;,
+    &quot;accountId&quot;: &quot;ddc6d522-ed13-4ba0-bf0d-ec8606f5ae76&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qfWPiiNfOgbS8diaVdinaQIhSt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build Mario.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Mario [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/GitHub/Mario/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Mario.main" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c7504b-cc9d-47a0-8f40-74d46de1ee66" name="Changes" comment="" />
+      <created>1735054090017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735054090017</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1735066984559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735066984559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1735067123895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735067123895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1735067400231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735067400231</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1735067552725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735067552725</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated KeyListener and Window class">
+      <option name="closed" value="true" />
+      <created>1735138250325</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138250325</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added LevelEditorScene Class">
+      <option name="closed" value="true" />
+      <created>1735138289768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138289768</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added LevelScene Class">
+      <option name="closed" value="true" />
+      <created>1735138309635</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138309635</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Scene Class">
+      <option name="closed" value="true" />
+      <created>1735138323061</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138323061</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Time Class">
+      <option name="closed" value="true" />
+      <created>1735138337759</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138337759</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update LevelEditorScene, Scene, and Window class to incorporate shaders">
+      <option name="closed" value="true" />
+      <created>1735144588093</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735144588093</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Vertex and Fragment Shaders">
+      <option name="closed" value="true" />
+      <created>1735144628065</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735144628065</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1735148623491</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735148623491</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Aurora\Camera.java">
+      <option name="closed" value="true" />
+      <created>1735550664479</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550664479</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added renderer\Shader.java">
+      <option name="closed" value="true" />
+      <created>1735550701211</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550701211</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated assets\shader\default.glsl">
+      <option name="closed" value="true" />
+      <created>1735550748883</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550748883</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated Aurora\LevelEditorScene.java">
+      <option name="closed" value="true" />
+      <created>1735550791663</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550791663</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated Aurora\Scene.java">
+      <option name="closed" value="true" />
+      <created>1735550805587</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550805587</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Updated Aurora\LevelEditorScene.java">
+      <option name="closed" value="true" />
+      <created>1735729406273</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735729406273</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Updated renderer\Shader.java">
+      <option name="closed" value="true" />
+      <created>1735729446893</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735729446893</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updated assets\shaders\default.glsl to modify the graphic with noise">
+      <option name="closed" value="true" />
+      <created>1735729501198</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735729501198</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Updated KeyListener and Window class" />
+    <MESSAGE value="Added LevelEditorScene Class" />
+    <MESSAGE value="Added LevelScene Class" />
+    <MESSAGE value="Added Scene Class" />
+    <MESSAGE value="Added Time Class" />
+    <MESSAGE value="Update LevelEditorScene, Scene, and Window class to incorporate shaders" />
+    <MESSAGE value="Added Vertex and Fragment Shaders" />
+    <MESSAGE value="Updated workspace.xml" />
+    <MESSAGE value="Added Aurora\Camera.java" />
+    <MESSAGE value="Added renderer\Shader.java" />
+    <MESSAGE value="Updated assets\shader\default.glsl" />
+    <MESSAGE value="Updated Aurora\Scene.java" />
+    <MESSAGE value="Updated Aurora\LevelEditorScene.java" />
+    <MESSAGE value="Updated renderer\Shader.java" />
+    <MESSAGE value="Updated assets\shaders\default.glsl to modify the graphic with noise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated assets\shaders\default.glsl to modify the graphic with noise" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
